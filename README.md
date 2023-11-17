@@ -28,8 +28,6 @@
   <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
  </div>
    
-  
-<div align="center">
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NathanAtaliba&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
    
