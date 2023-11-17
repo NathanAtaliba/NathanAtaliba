@@ -1,6 +1,6 @@
 <h1 align="center">
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+is+Nathan+Santos....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+is+Nathan+Santos...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -11,6 +11,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAtaliba&layout=compact)](https://github.com/NathanAtaliba/github-readme-stats)  
 
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
