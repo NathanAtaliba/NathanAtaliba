@@ -4,14 +4,15 @@
   </a>
 </h1>
 
-<div align="center">
-  <a href="https://github.com/NathanAtaliba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanAtaliba&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   
-    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAtaliba&layout=compact)](https://github.com/NathanAtaliba/github-readme-stats)  
-
-</div>
-
+<p align="center"> 
+    <br>
+ 💻 Atualmente estudando Typescript/React/NodeJS
+   <br>
+ 📚 Estudante de engenharia de computação no INATEL
+    <br>
+  
+<p>
+ 
 <div align="center">
   <a href="https://www.youtube.com/channel/UC0KhX-GHT4TUMrGfq4h3LKA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/nathan_ataliba/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
