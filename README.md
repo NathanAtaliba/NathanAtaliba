@@ -1,17 +1,8 @@
 <h1 align="center">
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+ is+Nathan+Santos+...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+is+Nathan+Santos+...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
-<div align="center">
-  <a href="https://github.com/NathanAtaliba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanAtaliba&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   
-    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAtaliba&layout=compact)](https://github.com/NathanAtaliba/github-readme-stats)  
-
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,6 +11,14 @@
   <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
  </div>
+  
+<div align="center">
+  <a href="https://github.com/NathanAtaliba">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanAtaliba&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAtaliba&layout=compact)](https://github.com/NathanAtaliba/github-readme-stats)  
+
+</div>
   
   ##
  
