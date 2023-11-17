@@ -23,7 +23,7 @@
   <a href = "mailto:nathanataliba28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathan-ataliba-92899223a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
-  ![Snake animation](https://github.com/NathanAtaliba/NathanAtaliba/blob/output/github-contribution-grid-snake.svg)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NathanAtaliba&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
   
   
