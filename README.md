@@ -1,4 +1,6 @@
-## Oi, eu sou o Nathan Santos Ataliba, atualmente cursando Engenharia da computação!
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+is+Nathan+Santos....;Nice+to+meet+you!&center=true&size=30">
+  </a>
 <div align="center">
   <a href="https://github.com/NathanAtaliba">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=NathanAtaliba&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   
