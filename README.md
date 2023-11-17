@@ -6,9 +6,9 @@
 
 <p align="center"> 
     <br>
- 💻 Atualmente estudando Typescript/React/NodeJS
+ 💻 Currently studying Typescript/React/NodeJS
    <br>
- 📚 Estudante de engenharia de computação no INATEL
+ 📚 Computer Enginner student at Inatel
     <br>
   
 <p>
