@@ -1,4 +1,4 @@
- <a href="https://git.io/typing-svg">
+ <a href="https://git.io/typing-svg" align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+is+Nathan+Santos....;Nice+to+meet+you!&center=true&size=30">
   </a>
 <div align="center">
